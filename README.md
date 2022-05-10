@@ -2,7 +2,7 @@
 
 This repository contains the code used for calculating the cost to do on-chain data availability in both Arbitrum and Starknet. The contexts here contain the code necessary to calculate the average gas per transaction on both systems as well as the percentage dominance of that cost compared to the overall transaction.
 
-# Repository Tree
+## Repository Tree
 
 ```
 ├───average-data-cost                   # Average Cost for Data Availability per Transaction
